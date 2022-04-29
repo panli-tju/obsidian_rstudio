@@ -23,9 +23,9 @@ ob_md
 
 file_num <- 1
 
-# use set.file.expansion function to change .md to .rmd, note this step only 
+# use set.file.expansion function to change .md to .rmd. Note, this step only 
 
-# change the characters, not really change the file in the next step
+# change the characters, but not really change the file name
 
 md_rmd<-set.file.extension(ob_md[file_num],'rmd')
 
