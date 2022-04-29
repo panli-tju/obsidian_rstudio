@@ -1,11 +1,11 @@
 
-# step 1  trangform the .md file to .rmd file and open .rmd file in Rsutdio
+# step 1  transform the .md file to .rmd file and open .rmd file in Rsutdio
 
 note:  you should run the following code in Rstuido
 
 ```{r}
 
-# this code is for writing code in obsidian app, but open it in Rsutdio.
+# this code is for writing markdown  in obsidian app, but open it in Rsutdio.
 
 # package `RSAGA` for change file extension 
 
